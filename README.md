@@ -5,7 +5,7 @@ Desenvolvido em  ![Pytohn](https://img.shields.io/badge/Python-14354C?style=flat
 
 ![visitorBadge](https://visitor-badge.laobi.icu/badge?page_id=VitorSamuel.qrcode-generator)
 
-![stars](https://img.shields.io/github/stars/hVitorSamuel-pkg/qrcode-generator?style=social)
+![stars](https://img.shields.io/github/stars/VitorSamuel-pkg/qrcode-generator?style=social)
 <br>
 
 # Como Usar?
