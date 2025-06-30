@@ -15,11 +15,12 @@ Desenvolvido em  ![Pytohn](https://img.shields.io/badge/Python-14354C?style=flat
 
 Para usá-lo, será necessário ter instalado em seu computador o Python 3.8+. 
 <br> 
-Após instalado, instale as bibliotecas [qrcode, Pillow e tkinter] assim:  
+Após instalado, instale as bibliotecas [qrcode, pillow, tkinter e customtkinter] assim:  
 
 ```console
 pip install qrcode[pil]
 pip install pillow
+pip install customkinter
 ```
 
 no caso do tkinter, ele já vem instalado junto ao python (No Windows).
@@ -46,5 +47,5 @@ python App.py
 
 <br>
 
-![imgApp](https://ibin.co/8mVsSEkPbF5A.png) 
+![imgApp](https://ibin.co/8mWlSHZGg0L7.png) 
 
